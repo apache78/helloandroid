@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello</string>
+
+    <string name="go_hawks">Go SEAHAWKS!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">GO SEAHAWKS</string>
+    <string name="name">Go Seahawks</string>
+</resources>
